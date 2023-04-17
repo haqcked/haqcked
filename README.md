@@ -1,11 +1,11 @@
-<h2 align="left">👋 Hello World!</h1>
+<h2 align="left">👋  Hello World!</h1>
 <h3 align="left">I'm Haq, a junior Fullstack Developer who graduated from Le Wagon.</h3>
-
+<hr>
 - 🔭 I’m currently working on **a project which is yet to be named 😊**
 
-- 🌱 I’m currently mastering **Rails & JavaScript**
+- 🌱 Currently mastering **Rails & JavaScript**
 
-- 💬 Ask me about **memes, Dota2, books**
+- 💬 Ask me about **memes, Dota2, books, cats**
 
 <p align="left">
 </p>
