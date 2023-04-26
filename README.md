@@ -1,7 +1,7 @@
 <h2 align="left">👋  Hello World!</h1>
 <h3 align="left">I'm Haq, a junior Fullstack Developer who graduated from Le Wagon.</h3>
 
-- 🔭 I’m currently working on **a project which is yet to be named** 😉
+- 🔭 I’m currently part of a team **working on a web app called YogaUnalome** 😉
 
 - 🌱 Currently mastering **Rails & JavaScript**
 
