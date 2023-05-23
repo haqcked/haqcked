@@ -9,7 +9,7 @@
 
 <h3 align="left">Latest projects:</h3>
 
-🧘🏽‍♀️ [YogaUnalome](https://www.yogaunalome.com/) - Still in production. A web app for a small yoga business. It features intuitive interface and comprehensive library of yoga classes where users can explore and book different yoga styles.
+🧘🏽‍♀️ [YogaUnalome](https://www.yogaunalome.com/) - (in production) A web app for a small yoga business. It features intuitive interface and comprehensive library of yoga classes where users can explore and book different yoga styles.
 
 🧺 [LaundroMate](https://www.laundro-mate.me/) - A user-friendly web app that provides a convenient laundry solution for busy individuals. With easy access to services, pricing, and reviews, users can create an account, schedule pickups, track orders, and receive reliable customer support through the live chat feature.
 
