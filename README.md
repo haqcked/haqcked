@@ -1,7 +1,9 @@
 <h2 align="left">👋  Hello World!</h1>
-<h3 align="left">I'm Haq, a Fullstack Developer from Le Wagon.</h3>
+<h3 align="left">I'm Haq, a Fullstack Developer.</h3>
 
-- 🌱 Currently mastering **Rails & JavaScript**
+- 🌱 I'm currently mastering **my skills in JavaScript**
+
+- 💻  I'm a graduate **of Le Wagon Full-Stack Web Development bootcamp**
 
 - 💬 Ask me about **memes, Dota2, books, cats** 🐈
 
