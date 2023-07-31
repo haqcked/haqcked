@@ -1,5 +1,5 @@
 <h2 align="left">👋  Hello World!</h1>
-<h3 align="left">I'm Haq, a junior Fullstack Developer from Le Wagon.</h3>
+<h3 align="left">I'm Haq, a Fullstack Developer from Le Wagon.</h3>
 
 - 🌱 Currently mastering **Rails & JavaScript**
 
