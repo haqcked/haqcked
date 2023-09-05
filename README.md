@@ -11,7 +11,7 @@
 
 🔆 [My Weather App](https://haqcked.github.io/weather-app) A weather app which I had so much fun building from scratch. [Repo.](https://github.com/haqcked/weather-app)
 
-
+📝 [My To-Do App](https://haqcked.github.io/ToDo/) A simple to-do app which can help streamline your tasks and boost productivity. [Repo.](https://github.com/haqcked/ToDo)
 
 🧘🏽‍♀️ [YogaUnalome](https://github.com/wJoenn/YogaUnalome) - A business management tool for a small yoga business. It features intuitive interface and comprehensive library of yoga classes where users can explore and book different yoga styles.
 
