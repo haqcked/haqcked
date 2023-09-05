@@ -1,7 +1,7 @@
 <h2 align="left">👋  Hello World!</h1>
 <h3 align="left">I'm Haq, a Fullstack Developer.</h3>
 
-- 🌱 I'm currently mastering **my skills in JavaScript**
+- 🌱 I'm currently mastering **my skills in JavaScript and React**
 
 - 💻  I'm a graduate **of Le Wagon Full-Stack Web Development bootcamp**
 
