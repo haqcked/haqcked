@@ -9,6 +9,10 @@
 
 <h3 align="left">Latest projects:</h3>
 
+🔆 [My Weather App](https://haqcked.github.io/weather-app) A weather app which I had so much fun building from scratch. [Repo.](https://github.com/haqcked/weather-app)
+
+
+
 🧘🏽‍♀️ [YogaUnalome](https://github.com/wJoenn/YogaUnalome) - A business management tool for a small yoga business. It features intuitive interface and comprehensive library of yoga classes where users can explore and book different yoga styles.
 
 🧺 [LaundroMate](https://github.com/haqcked/LaundroMate) - A user-friendly web app that provides a convenient laundry solution for busy individuals. With easy access to services, pricing, and reviews, users can create an account, schedule pickups, track orders, and receive reliable customer support through the live chat feature. [Site.](https://www.laundro-mate.me/)
