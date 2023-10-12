@@ -11,11 +11,11 @@
 
 🔆 [My Weather App](https://github.com/haqcked/weather-app) A weather app which I had so much fun building from scratch. [🌐](https://haqcked.github.io/weather-app)
 
-📝 [My To-Do App](https://haqcked.github.io/ToDo/) My simple to-do app which can help streamline your tasks and boost productivity. [Code.](https://github.com/haqcked/ToDo)
+📝 [My To-Do App](https://github.com/haqcked/ToDo) My simple to-do app which can help streamline your tasks and boost productivity. [🌐](https://haqcked.github.io/ToDo/)
 
 🧘🏽‍♀️ [YogaUnalome](https://github.com/wJoenn/YogaUnalome) - A business management tool for a small yoga business. It features intuitive interface and comprehensive library of yoga classes where users can explore and book different yoga styles.
 
-🧺 [LaundroMate](https://www.laundro-mate.me/) - A user-friendly web app that provides a convenient laundry solution for busy individuals. With easy access to services, pricing, and reviews, users can create an account, schedule pickups, track orders, and receive reliable customer support through the live chat feature. [Code.](https://github.com/haqcked/LaundroMate)
+🧺 [LaundroMate](https://github.com/haqcked/LaundroMate) - A user-friendly web app that provides a convenient laundry solution for busy individuals. With easy access to services, pricing, and reviews, users can create an account, schedule pickups, track orders, and receive reliable customer support through the live chat feature. [🌐](https://www.laundro-mate.me/)
 
 🐮 [FarmBnb](https://github.com/haqcked/FarmBnb) - An Airbnb clone that features renting adorable animals for any occasions. Owners can list their pets, while members can easily browse and book with detailed info, location, pricing, and availability. Making any event unforgettable with this fun and innovative animal rental service.
 
