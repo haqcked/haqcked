@@ -9,7 +9,7 @@
 
 <h3 align="left">Latest projects:</h3>
 
-🔆 [My Weather App](https://haqcked.github.io/weather-app) A weather app which I had so much fun building from scratch. [Code.](https://github.com/haqcked/weather-app)
+🔆 [My Weather App](https://haqcked.github.io/weather-app) [🌐](https://haqcked.github.io/weather-app) A weather app which I had so much fun building from scratch. [Code.](https://github.com/haqcked/weather-app)
 
 📝 [My To-Do App](https://haqcked.github.io/ToDo/) My simple to-do app which can help streamline your tasks and boost productivity. [Code.](https://github.com/haqcked/ToDo)
 
